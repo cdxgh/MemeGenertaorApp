@@ -1,4 +1,4 @@
-import { Button } from "bootstrap";
+import { Button } from "react-bootstrap";
 import Text from "../Components/Text";
 import React, { useState, createRef } from "react";
 import { useSearchParams } from "react-router-dom";
